@@ -7,7 +7,9 @@
 
 ## HI,THIS IS CODER 👋 ##
 
-[Portfolio](https://sangamesh.vercel.app/)
+
+<a href="https://sangamesh.vercel.app/" target="_blank">Portfolio</a>
+
 
 
 #  💫 About Me:
