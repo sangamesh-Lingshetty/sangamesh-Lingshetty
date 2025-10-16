@@ -1,10 +1,4 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://files.oaiusercontent.com/file-xk9nB2FxcpyzGCW6WkSLmQsF?se=2024-10-19T09%3A15%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D35d35dca-7f56-46bd-b4e1-98f8f79a2b4e.webp&sig=A1C8HF%2BP4hHN9hcblCME7MkFpvfkL26vS15Cm2jnALk%3D)"/>
-</div>
-<!-- <img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/> <br/> -->
-
 ## HI,THIS IS CODER 👋 ##
 
 
