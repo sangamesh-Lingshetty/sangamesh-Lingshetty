@@ -1,212 +1,313 @@
-# 🌟 Welcome to My Digital Universe
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;SaaS+Tool+Builder+%F0%9F%92%BB;Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;DevOps+Enthusiast+%F0%9F%94%A7;Problem+Solver+%E2%9C%A8)
-
-  <img src="https://komarev.com/ghpvc/?username=sangamesh-Lingshetty&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sangamesh.vercel.app/)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vedangit)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedangi-thokal-528037249/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vedangitt)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+AWS+Architect;Building+Scalable+SaaS+Platforms;Node.js+%7C+Microservices+%7C+DevOps;Open+to+40-50+LPA+Opportunities" alt="Typing SVG" />
 </div>
+
+<h1 align="center">Hi 👋, I'm Sangamesh Lingshetty</h1>
+<h3 align="center">Backend Engineer @ Aquera | AWS Solutions Architect | Full Stack Developer</h3>
+
+<p align="center">
+  <em>Passionate about building scalable, production-grade backend systems that power modern SaaS platforms</em>
+</p>
 
 ---
 
-## 🎯 About Me
-```javascript
-const developer = {
-    name: "Sangamesh",
-    role: "Full Stack Developer & SaaS Tool Builder",
-    location: "India 🇮🇳",
-    currentFocus: ["Backend", "Cloud Architecture", "DevOps", "Frontend"],
-    philosophy: "Building elegant solutions to everyday problems",
-    
-    askMeAbout: ["Web Dev", "AI/ML", "SaaS", "Tech Blogging"],
-    funFact: "I turn coffee ☕ into code and minor inconveniences into apps",
-    
-    challenge: "Tell me your daily inconvenience, I'll code a solution! 🚀"
-};
+## 🚀 About Me
+```yaml
+name: Sangamesh Lingshetty
+role: Backend Engineer
+company: Aquera Technologies
+location: Bengaluru, India
+education: B.Tech CSE @ Dayananda Sagar University
+target_salary: 40-50 LPA
+
+current_focus:
+  - Multi-tenant SaaS architecture
+  - AWS serverless stack (Lambda, DynamoDB, API Gateway)
+  - Microservices & event-driven systems
+  - DevOps & CI/CD automation
+
+learning:
+  - Advanced System Design
+  - Kubernetes & Container Orchestration
+  - GraphQL at scale
+  - AI/ML integration in backend systems
+
+open_to:
+  - Senior Backend Engineer roles
+  - Full Stack Engineering positions
+  - AWS Solutions Architect opportunities
+  - Technical Lead positions
 ```
 
-<div align="center">
-  
-  ### 💡 **My Superpower?** 
-  *Solving minor inconveniences with major code!*
-  
-  🔧 Got a repetitive task? Let's automate it.  
-  🐛 Found a bug in real life? Let's patch it with software.  
-  ⚡ Life throwing friction? Let's code some WD-40.
+---
 
-</div>
+## 💼 Professional Experience
+
+**Backend Engineer @ Aquera Technologies** _(Feb 2025 - Present)_
+- 🏗️ Architecting multi-tenant SaaS platform handling **10K+ requests/minute**
+- ⚡ Reduced API latency by **45%** using event-driven architecture (AWS SQS/SNS)
+- 🚀 Built CI/CD pipelines cutting deployment time from **2 hours → 15 minutes**
+- 📊 Achieved **99.9% uptime SLA** with comprehensive monitoring
+- 👥 Mentoring junior developers in 10+ member Agile team
+
+**Frontend Developer Intern @ CODE CLAUSE** _(May 2023 - Jul 2023)_
+- ⚡ Improved website performance by **35%** through optimization
+- 🔴 Implemented real-time features for **500+ concurrent users**
+- ⚛️ Built responsive React.js components with modern UI/UX
 
 ---
 
-## 🛠️ Tech Arsenal
+# LeetCode Solutions
 
-<div align="center">
+My journey solving 100+ Data Structures & Algorithms problems.
 
-### 🎨 Frontend Magic
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📊 Progress
+
+- ✅ **Easy:** 40 problems
+- ⚡ **Medium:** 50 problems
+- 🔥 **Hard:** 10 problems
+
+## 📁 Structure
+
+## 🏆 Featured Projects
+
+### 🚀 [DevInsights](https://github.com/yourusername/devinsights) - AI-Powered Developer Analytics SaaS
+> Multi-tenant platform analyzing GitHub data for engineering productivity insights
+
+**🎯 Key Features:**
+- 📊 Real-time analytics from GitHub API integration
+- 🤖 AI-powered insights using OpenAI GPT-4
+- 🏢 Multi-tenant architecture serving **50+ organizations**
+- ⚡ Handles **10K+ requests/minute** with auto-scaling
+- 🔒 Enterprise-grade security with OAuth 2.0 & RBAC
+
+**🛠️ Tech Stack:**
+
+
+**📈 Impact:**
+- ✅ 15+ AWS services integrated
+- ✅ Multi-tenant data isolation
+- ✅ 99.9% uptime SLA
+- ✅ Real-time analytics dashboard
+
+---
+
+### 💡 [My Habit](https://github.com/yourusername/my-habit) - Intelligent Habit Tracking Platform
+> Production SaaS helping users build consistency through smart reminders
+
+**🌟 Live:** [habit-frontend-psi.vercel.app](https://habit-frontend-psi.vercel.app/)
+
+**🎯 Key Features:**
+- ✅ Real-time Telegram notifications (**95%+ delivery rate**)
+- 👥 Serving **100+ active users**
+- 📊 Analytics dashboard with streak tracking
+- 🔒 End-to-end encryption for privacy
+- 🌍 Multi-platform support (Telegram, WhatsApp, Slack)
+
+**🛠️ Tech Stack:**
+
+**📈 Impact:**
+- ✅ 100+ users onboarded
+- ✅ 95%+ notification success rate
+- ✅ Sub-200ms API response time
+
+---
+
+### 🏠 [Abhi Book Karo](https://github.com/yourusername/abhi-book-karo) - Property Rental Platform
+> Airbnb-inspired marketplace with real-time bookings & payments
+
+**Tech:** MERN Stack, Razorpay API, Cloudinary, JWT
+
+---
+
+### 🔐 [RBCT](https://github.com/yourusername/rbct) - Role-Based Access Control System
+> Enterprise-grade RBAC with granular permissions
+
+**Tech:** React.js, Node.js, JWT, MockAPI
+
+---
+
+### 🏨 [Hotel Table Booking](https://github.com/yourusername/hotel-booking) - Reservation System
+> Real-time table booking with availability management
+
+**Tech:** Node.js, MySQL, HTML/CSS/JS
+
+---
+
+### 🌱 [Plant Disease Detection](https://github.com/yourusername/plant-disease-detection) - ML Model
+> CNN-based image classification for plant disease diagnosis
+
+**Tech:** Python, TensorFlow, OpenCV | **Accuracy:** 85%+
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚙️ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔧 Languages & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+### **AWS Services (Production Experience)**
+`Lambda` • `API Gateway` • `DynamoDB` • `S3` • `CloudFront` • `SQS` • `SNS` • `CloudWatch` • `Cognito` • `RDS`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sangamesh-Lingshetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-Lingshetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" height="180"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangamesh-Lingshetty&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-Lingshetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognition
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sangamesh-Lingshetty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 📝 Check out my articles on [Dev.to](https://dev.to/vedangit) 
-- 🎯 Trusted Member Badge Holder ✨
-- 💡 Writing about Web Development, AI/ML, and SaaS Development
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-<!-- Replace with your actual repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sangamesh-Lingshetty&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sangamesh-Lingshetty/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sangamesh-Lingshetty&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sangamesh-Lingshetty/your-project-2)
-
-</div>
-
----
-
-## 💼 What I Do
-
-<div align="center">
-```mermaid
-graph LR
-    A[💡 Idea] --> B[🎨 Design]
-    B --> C[💻 Develop]
-    C --> D[☁️ Deploy]
-    D --> E[🚀 Scale]
-    E --> F[🔄 Iterate]
-    F --> A
+## 🎯 Current Focus (2025)
+```javascript
+const currentGoals = {
+  technical: [
+    "Master advanced system design patterns",
+    "Kubernetes & container orchestration",
+    "Build production-ready microservices",
+    "Complete DevInsights v1.0 launch"
+  ],
+  
+  career: [
+    "Target: 40-50 LPA roles",
+    "Senior Backend Engineer positions",
+    "AWS Solutions Architect certification",
+    "Contribute to open-source projects"
+  ],
+  
+  learning: [
+    "Advanced AWS services",
+    "GraphQL at scale",
+    "AI/ML integration in backend",
+    "System design mastery"
+  ]
+};
 ```
 
-</div>
-
-### 🎯 Specializations
-
-- **🏗️ SaaS Development**: Building scalable software-as-a-service applications
-- **☁️ Cloud Architecture**: Designing and implementing cloud-native solutions
-- **🔧 DevOps**: Automating workflows and continuous integration/deployment
-- **🤖 AI/ML Integration**: Implementing intelligent features in web applications
-- **📱 Full Stack Development**: End-to-end application development
-
 ---
 
-## 💬 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
-
-### 💡 Have a minor inconvenience? Let's solve it together!
-
-I love turning everyday frustrations into code solutions. Whether it's a repetitive task, a clunky workflow, or just something that annoys you - **tell me about it, and I'll try to build something to fix it!**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sangamesh.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedangi-thokal-528037249/)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangameshlingshetty@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
 ---
 
-<div align="center">
+## 💡 Philosophy
 
-### 📈 Profile Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangamesh-Lingshetty&theme=tokyonight" alt="Profile Summary" />
-
-</div>
+> "Building scalable systems isn't just about code - it's about solving real problems with elegant solutions that stand the test of time and traffic."
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
-  ### 🌟 "Code is poetry written in logic" 🌟
+  ### Show some ❤️ by starring some repositories!
   
-  ![Snake animation](https://github.com/sangamesh-Lingshetty/sangamesh-Lingshetty/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  **Thanks for stopping by! Let's build something amazing together!** 🚀
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
+  <sub>💼 Open to exciting backend engineering opportunities | 📧 sangameshlingshetty@gmail.com</sub>
 </div>
+
+
+# Project Name
+
+> One-line description that sells the project
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://yourdemo.com)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/repo)
+
+## 🎯 Overview
+
+Brief paragraph explaining what the project does and why it matters.
+
+## ✨ Key Features
+
+- 🚀 Feature 1 with impact metric
+- ⚡ Feature 2 with performance improvement
+- 🔒 Feature 3 with security/reliability highlight
+
+## 🛠️ Tech Stack
+
+**Backend:** Node.js, Express.js, MongoDB
+**Frontend:** React.js, Tailwind CSS
+**Deployment:** AWS, Vercel
+
+## 📊 Metrics
+
+- ✅ Metric 1 (e.g., Users served)
+- ✅ Metric 2 (e.g., Performance improvement)
+- ✅ Metric 3 (e.g., Uptime/reliability)
+
+## 🚀 Quick Start
+```bash
+# Clone
+git clone https://github.com/yourusername/project
+
+# Install
+npm install
+
+# Run
+npm start
+```
+
+## 📸 Screenshots
+
+[Add 2-3 key screenshots]
+
+## 🤝 Contributing
+
+Open to contributions! See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 📧 Contact
+
+Questions? Reach out at sangameshlingshetty@gmail.com
